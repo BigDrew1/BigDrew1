@@ -2,11 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Data Analysis with R
-- 🌱 I’m currently learning R and Python
+- 🔭 I Create Insights from DATA with Microsoft Excel SQL and R
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on R and Python
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Data Analytics report writing
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrew-a-194583142/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am still Learning
+- 🤔 I’m looking forward to learning Machine Learning and Deep Learning
+- 💬 Ask me about Finance Analytics and report writing
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrew-a-194583142/) [Twitter](https://twitter.com/akhigbe_andrew1) [Instagram](https://instagram.com/akhigbe_andrew1) [Portfolio](#)
