@@ -2,9 +2,6 @@
 
 
 
-- 🔭 I Create Insights from DATA with R and SQL
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on SQL, R and Python
-- 🤔 I’m looking forward to learning Machine Learning and Deep Learning
-- 💬 Ask me about Finance Analytics and report writing
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrew-a-194583142/) [Twitter](https://twitter.com/akhigbe_andrew1) [Instagram](https://instagram.com/akhigbe_andrew1) [Portfolio](bigdrew1.github.io/portfolio/)
+- 🔭 I make Exploratory Data Analysis reports using Python, R and SQL
+- 🌱 I also create Machine Learning web applications using Python - Flask
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrew-a-194583142/) [Portfolio](bigdrew1.github.io/portfolio/)
